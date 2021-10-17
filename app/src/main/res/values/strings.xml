@@ -3,4 +3,5 @@
     <string name="roll">ROLL</string>
     <string name="string_roll">ROLL</string>
     <string name="dice">dice</string>
+    <string name="dice_two">dice_two</string>
 </resources>
